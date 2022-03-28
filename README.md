@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomSouthwick
+- 👋 Hi, I’m @TomSouthwick --> Check out my portfolio here! https://tomsouthwick.github.io/
 - 👀 I’m interested in Coding and Design
 - 🌱 I’m currently learning Computer Science and Coding
 - 💞️ I’m looking to collaborate on Desinging disruptive practises through intuitive code
