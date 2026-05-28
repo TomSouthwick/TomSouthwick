@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science and Coding
 - 💞️ I’m looking to collaborate on Desinging disruptive practises through intuitive code
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/tomsouthwick/?originalSubdomain=au
-  - Or you can email me at tom.southwick@gmail.com
 
 <!---
 TomSouthwick/TomSouthwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
